@@ -33,13 +33,6 @@ I'm following a structured path to master the web. Here is the breakdown of the 
 
 ---
 
-## 📂 Project Highlights
-
-| Project Name | Tech Stack | Key Learning | Link |
-| --- | --- | --- | --- |
-| **Weather App** | HTML/CSS/JS | Fetching Data from APIs | [View Code]() |
-| **Task Master** | React & Firebase | CRUD Operations & Auth | [View Code]() |
-| **Dev-Portfolio** | Next.js & Tailwind | SSR & Performance | [Live Demo]() |
 
 ---
 
