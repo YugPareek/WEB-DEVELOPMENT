@@ -1,0 +1,23 @@
+body{
+    text-align: center;
+  font-family: "Happy Monkey", cursive;
+  background-color: #a2d2ff;
+  color: #ffffff;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+h1, h2 , h3 , h4 , p {
+    text-shadow: 0px 0px 3px black ;
+}
+
+#bff-img {
+    width: 150px;
+    height: 150px;
+    border-radius: 60%;
+    border: 5px solid  #EF89C9;
+}
+h2 , h4 {
+    background: #EFB0C9;
+}
