@@ -25,25 +25,3 @@ I'm following a structured path to master the web. Here is the breakdown of the 
 * **NoSQL:** MongoDB.
 * **ORMs:** Prisma / Mongoose.
 
-### 🚀 Deployment & DevOps
-
-* **Version Control:** Git & GitHub.
-* **Cloud Hosting:** Vercel, Netlify, and AWS.
-* **Docker:** Containerizing applications for consistency.
-
----
-
-
----
-
-## 📈 Learning Progress
-
-* [x] Mastered CSS Flexbox & Grid
-* [x] Understood the JavaScript Event Loop
-* [ ] Currently Learning: **Node.js Middleware**
-* [ ] Next Up: **PostgreSQL Architecture**
-
-
----
-
-> "The best time to plant a tree was 20 years ago. The second best time is now—and the third best time is right after you fix that bug." ☕
